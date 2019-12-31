@@ -1,0 +1,32 @@
+Episode 10	Score: 0.46	 Elapsed Time:150sec
+Episode 10	Average Score: 0.85
+Episode 20	Score: 1.98	 Elapsed Time:303sec
+Episode 20	Average Score: 1.19
+Episode 30	Score: 1.74	 Elapsed Time:454sec
+Episode 30	Average Score: 2.22
+Episode 40	Score: 2.06	 Elapsed Time:608sec
+Episode 40	Average Score: 2.96
+Episode 50	Score: 3.19	 Elapsed Time:759sec
+Episode 50	Average Score: 2.81
+Episode 60	Score: 5.35	 Elapsed Time:917sec
+Episode 60	Average Score: 4.12
+Episode 70	Score: 4.00	 Elapsed Time:1073sec
+Episode 70	Average Score: 4.47
+Episode 80	Score: 2.32	 Elapsed Time:1234sec
+Episode 80	Average Score: 3.28
+Episode 90	Score: 6.35	 Elapsed Time:1394sec
+Episode 90	Average Score: 4.36
+Episode 100	Score: 7.18	 Elapsed Time:1554sec
+Episode 100	Average Score: 6.89
+Episode 110	Score: 8.65	 Elapsed Time:1712secc
+Episode 110	Average Score: 6.48
+Episode 120	Score: 8.08	 Elapsed Time:1874secc
+Episode 120	Average Score: 7.47
+Episode 130	Score: 5.80	 Elapsed Time:2037secc
+Episode 130	Average Score: 9.21
+Episode 140	Score: 8.99	 Elapsed Time:2196sec
+Episode 140	Average Score: 8.14
+Episode 148	Score: 15.38	 Elapsed Time:2328sec
+Environment solved in 148 episodes!	Average Score: 10.52
+
+Enviroment is solved in {} sec 2328

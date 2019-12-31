@@ -1,0 +1,60 @@
+Episode 10	Score: 0.46	 Elapsed Time:159sec
+Episode 10	Average Score: 0.85
+Episode 20	Score: 1.98	 Elapsed Time:321sec
+Episode 20	Average Score: 1.19
+Episode 30	Score: 1.74	 Elapsed Time:484sec
+Episode 30	Average Score: 2.22
+Episode 40	Score: 2.06	 Elapsed Time:648sec
+Episode 40	Average Score: 2.96
+Episode 50	Score: 3.19	 Elapsed Time:812sec
+Episode 50	Average Score: 2.81
+Episode 60	Score: 5.35	 Elapsed Time:979sec
+Episode 60	Average Score: 4.12
+Episode 70	Score: 4.00	 Elapsed Time:1149sec
+Episode 70	Average Score: 4.47
+Episode 80	Score: 2.32	 Elapsed Time:1320sec
+Episode 80	Average Score: 3.28
+Episode 90	Score: 6.35	 Elapsed Time:1488sec
+Episode 90	Average Score: 4.36
+Episode 100	Score: 7.18	 Elapsed Time:1654sec
+Episode 100	Average Score: 6.89
+Episode 110	Score: 8.65	 Elapsed Time:1819secc
+Episode 110	Average Score: 6.48
+Episode 120	Score: 8.08	 Elapsed Time:1985secc
+Episode 120	Average Score: 7.47
+Episode 130	Score: 5.80	 Elapsed Time:2156secc
+Episode 130	Average Score: 9.21
+Episode 140	Score: 8.99	 Elapsed Time:2328sec
+Episode 140	Average Score: 8.14
+Episode 150	Score: 10.58	 Elapsed Time:2500sec
+Episode 150	Average Score: 10.74
+Episode 160	Score: 7.96	 Elapsed Time:2676secc
+Episode 160	Average Score: 12.52
+Episode 170	Score: 21.29	 Elapsed Time:2855sec
+Episode 170	Average Score: 17.98
+Episode 180	Score: 7.09	 Elapsed Time:3035secc
+Episode 180	Average Score: 15.45
+Episode 190	Score: 22.70	 Elapsed Time:3208sec
+Episode 190	Average Score: 18.46
+Episode 200	Score: 30.64	 Elapsed Time:3382sec
+Episode 200	Average Score: 24.85
+Episode 210	Score: 10.69	 Elapsed Time:3554sec
+Episode 210	Average Score: 18.04
+Episode 220	Score: 19.35	 Elapsed Time:3723sec
+Episode 220	Average Score: 20.53
+Episode 230	Score: 16.95	 Elapsed Time:3891sec
+Episode 230	Average Score: 22.69
+Episode 240	Score: 26.41	 Elapsed Time:4060sec
+Episode 240	Average Score: 23.05
+Episode 250	Score: 33.26	 Elapsed Time:4230sec
+Episode 250	Average Score: 29.04
+Episode 260	Score: 32.55	 Elapsed Time:4399sec
+Episode 260	Average Score: 27.96
+Episode 270	Score: 16.24	 Elapsed Time:4570sec
+Episode 270	Average Score: 26.40
+Episode 280	Score: 29.90	 Elapsed Time:4739sec
+Episode 280	Average Score: 24.09
+Episode 288	Score: 34.54	 Elapsed Time:4876sec
+Environment solved in 288 episodes!	Average Score: 31.54
+
+Enviroment is solved in {} sec 4876

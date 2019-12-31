@@ -1,0 +1,53 @@
+Episode 10	Score: 0.58	 Elapsed Time:147sec
+Episode 10	Average Score: 0.97
+Episode 20	Score: 1.64	 Elapsed Time:296sec
+Episode 20	Average Score: 1.08
+Episode 30	Score: 2.19	 Elapsed Time:447sec
+Episode 30	Average Score: 1.67
+Episode 40	Score: 0.65	 Elapsed Time:594sec
+Episode 40	Average Score: 1.80
+Episode 50	Score: 2.83	 Elapsed Time:740sec
+Episode 50	Average Score: 3.06
+Episode 60	Score: 4.61	 Elapsed Time:887sec
+Episode 60	Average Score: 3.30
+Episode 70	Score: 8.19	 Elapsed Time:1034sec
+Episode 70	Average Score: 4.55
+Episode 80	Score: 5.99	 Elapsed Time:1183sec
+Episode 80	Average Score: 4.92
+Episode 90	Score: 4.98	 Elapsed Time:1334sec
+Episode 90	Average Score: 4.49
+Episode 100	Score: 4.96	 Elapsed Time:1483sec
+Episode 100	Average Score: 6.00
+Episode 110	Score: 2.72	 Elapsed Time:1631sec
+Episode 110	Average Score: 4.81
+Episode 120	Score: 5.23	 Elapsed Time:1781sec
+Episode 120	Average Score: 5.25
+Episode 130	Score: 8.32	 Elapsed Time:1932sec
+Episode 130	Average Score: 6.67
+Episode 140	Score: 7.68	 Elapsed Time:2083sec
+Episode 140	Average Score: 7.80
+Episode 150	Score: 8.64	 Elapsed Time:2237secc
+Episode 150	Average Score: 8.02
+Episode 160	Score: 5.98	 Elapsed Time:2390secc
+Episode 160	Average Score: 7.73
+Episode 170	Score: 10.32	 Elapsed Time:2543sec
+Episode 170	Average Score: 9.64
+Episode 180	Score: 9.61	 Elapsed Time:2697secc
+Episode 180	Average Score: 7.06
+Episode 190	Score: 6.99	 Elapsed Time:2850secc
+Episode 190	Average Score: 8.68
+Episode 200	Score: 13.06	 Elapsed Time:3003sec
+Episode 200	Average Score: 7.95
+Episode 210	Score: 7.70	 Elapsed Time:3159secc
+Episode 210	Average Score: 8.13
+Episode 220	Score: 13.86	 Elapsed Time:3315sec
+Episode 220	Average Score: 9.54
+Episode 230	Score: 4.88	 Elapsed Time:3472secc
+Episode 230	Average Score: 6.57
+Episode 240	Score: 6.29	 Elapsed Time:3627secc
+Episode 240	Average Score: 6.93
+Episode 250	Score: 21.53	 Elapsed Time:3782sec
+Episode 250	Average Score: 9.78
+Episode 260	Score: 10.96	 Elapsed Time:3937sec
+Episode 260	Average Score: 7.40
+Episode 268	Score: 3.29	 Elapsed Time:4058secc
